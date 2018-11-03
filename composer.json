@@ -1,0 +1,23 @@
+{
+  "name": "luweiss/curl",
+  "description": "PHP Curl",
+  "keywords": [
+    "curl"
+  ],
+  "type": "library",
+  "require": {
+    "php": ">=5.4",
+    "ext-curl": "*"
+  },
+  "authors": [
+    {
+      "name": "Lu Wei",
+      "homepage": "https://www.luweiss.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "luweiss\\Curl\\": "src/Curl"
+    }
+  }
+}
