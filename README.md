@@ -5,7 +5,7 @@
 ### Install
 
 ```bash
-composer require 'luweiss/curl'
+composer require 'ioutsider/curl'
 ```
 
 ### Get
